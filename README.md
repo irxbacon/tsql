@@ -1,3 +1,2 @@
-# hello-world
-hello world repository trainging thing
-some changes to the readme file 
+# tsql  
+Bunch of sql scripts that I didn't want to lose or rewrite
